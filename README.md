@@ -1,1 +1,2 @@
 # Brain-Tumor-Detection-Using-Convolutional-Neural-Network
+Membangun model deep learning menggunakan Convolutional Neural Network untuk mendeteksi keberadaan tumor berdasarkan hasil Magnetic Resonance Imaging (MRI) pasien. Accuracy model dalam mendeteksi keberadaan tumor otak sebesar 72%. Model ini cukup baik dalam mendeteksi tumor jenis glioma dan pituitary. Namun, masih kurang baik dalam mendeteksi pasien yang tidak memiliki tumor dan pasien yang mengidap tumor jenis meningioma.
